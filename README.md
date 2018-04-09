@@ -1,7 +1,7 @@
 Members:
 1, Nguyen Ngoc Chien-027
 2, Le Canh Duong
-3, Nguyen Hoang Vu
+3, Nguyen Hoang Vu-164
 4, Pham Minh Duc-041
 
 
